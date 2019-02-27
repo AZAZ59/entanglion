@@ -4,7 +4,7 @@
 
 **2 ИГРОКА | Возраст 14 и старше | 45 МИНУТ**
 
-Ждет ваших навыков космической навигации и стратегического планирования, чтобы исследовать новую галактику и реконструировать древний квантовый компьютер. 
+В Entanglion вам предстоит использовать свои навыки космической навигации и стратегического планирования для того, чтобы исследовать новую галактику и восстановить древний квантовый компьютер.
 
 http://ibm.biz/entanglion
 
@@ -42,74 +42,74 @@ Entanglion также предоставляет игрокам различны
 1. **Выложите поля для игроы и космических кораблей**. Разместите игровое поле в пределах легкой досягаемости от
 каждого игрока и раздайте поля космических кораблей каждому игроку.
 2. **Поместите квантовые компоненты(???)**. Перемешайте квантовые компоненты и поместите их лицом вверх на каждую планету в галактике Entanglion, по одному на планету.
-3. **Перемешайте стопку карт двигателя **. Отложите карту PROBE и перемешайте оставшиеся карты двигателя. Поместите карту PROBE лицевой стороной вниз на стопку двигателя, затем положите оставшиеся карты двигателя сверху лицевой стороной вниз.
+3. **Перемешайте стопку карт двигателя**. Отложите карту PROBE и перемешайте оставшиеся карты двигателя. Поместите карту PROBE лицевой стороной вниз на стопку двигателя, затем положите оставшиеся карты двигателя сверху лицевой стороной вниз.
 4. **Подготовка колоды квантовых событий**. Отложите карту Quantum Shuffle и перемешайте оставшиеся карты событий. Выложите три карты событий лицевой стороной вниз на место для квантовых событий. (??????) Затем поместите карту Quantum Shuffle лицевой стороной вниз в колоду.  Наконец, поместите оставшиеся карты событий в колоду лицевой стороной вниз.
-5. **Установите начальный уровень обнаружения **. Поместите жетон уровня обнаружения на шкалу уровня обнаружения. Для простой игры начните с уровня обнаружения 1 или 2. Для более сложной игры начните с уровня обнаружения 3. Если уровень обнаружения достигает конечного уровня (X) до того, как квантовый компьютер будет построен, игра заканчивается прогрышем команды.
+5. **Установите начальный уровень обнаружения**. Поместите жетон уровня обнаружения на шкалу уровня обнаружения. Для простой игры начните с уровня обнаружения 1 или 2. Для более сложной игры начните с уровня обнаружения 3. Если уровень обнаружения достигает конечного уровня (X) до того, как квантовый компьютер будет построен, игра заканчивается прогрышем команды.
 6. **Определить первого игрока**. Выберите первого игрока по с помощью броска кубика Entanglion (8-гранный). Игрок с большим результатом ходит первым. Перебросьте кубик в случае равных результатов.
 7. **Определите начальные местоположения корабля**. Начиная с первого игрока, бросьте кубик Centarious, чтобы разместить каждый космический корабль (0 - переход к <span style="color: purple"> ZERO </span>, 1 - переход к <span style="color: purple"> ONE </span>). Этот процесс сродни инициализации квантовой системы.
 8. **Возьмите карты двигателя**. Начиная с первого игрока, каждый игрок берет три карты двигателя в свою руку.  Карты двигателя можно держать открытыми.
 
 <img src="../images/setup.png" width="100%">
 
-# Materials
+# Материалы (???)
 
-**Boards**
-- 1 game board
-- 2 spaceship boards
+**Доски**
+- 1 игровая доска
+- 2 доски кораблей
 <img src="../images/board.png" width="40%">
 
-**Cards**
-- 24 engine cards (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
+**Карты**
+- 24 Карты двигатеся (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
 <img src="../images/engine_cards.png" width="40%">
 
-- 9 event cards
+- 9 карт событий
 <img src="../images/events.png" width="100%">
 
-**Pieces**
-- 1 detection rate token
-- 8 quantum components
+**Компоненты**
+- 1 жетон уровня обнаружения
+- 8 квантовых компонентов(частей??)
 <img src="../images/quantum_components.png" width="100%">
 
-- 1 Centarious die (purple binary d6)
-- 1 Entanglion die (yellow d8)
-- 2 spaceship tokens
+- 1 кубик Centarious (фиолетовый двузначный(бинарный??) d6)
+- 1 кубик Entanglion (желтый d8)
+- 2 жетона кораблей
 <img src="../images/spaceship.png" width="20%">
 
-**Rule Book**
+**Книга правил**
 
-# Engine cards
+# Карты двигателя
 <img src="../images/engine_cards.png" width="60%">
 
-Engine cards are used to navigate your ships around the quantum universe. Navigation paths on the game board are labeled with the card(s) needed to traverse them (e.g. “X/CNOT” means either X or CNOT can be used to traverse that path). In some cases, only one spaceship may traverse a path. Engine cards may be played with no effect when no transition is shown on the board.
+Карты двигателя используются для перемещения ваших кораблей по квантовой вселенной. Навигационные пути на игровом поле помечены картой (картами), необходимыми для их прохождения (например «X/CNOT»  означает, что для прохождения этого пути можно использовать X или CNOT). В некоторых случаях только один космический корабль может пройти путь. Карты двигателя могут быть разыграны без эффекта, если на доске не показан переход.
 
-**X**. X is used to navigate between <span style="color: purple"> ZERO </span> and <span style="color: purple"> ONE </span> and within the Entanglion galaxy.
+**X (Вентиль Паули X)**. X используется для навигации между <span style="color: purple"> ZERO </span> и <span style="color: purple"> ONE </span> и внутри галактики Entanglion.
 
-**H**. H is used to travel between Centarious and Superious and within the Entanglion galaxy.
+**H (Преобразование Адамара)**. H используется, чтобы путешествовать между Centarious и Superious, а также внутри галактики Entanglion.
 
-**SWAP**. Outside of Entanglion, SWAP exchanges the positions of the two spaceships. Inside Entanglion, SWAP only transitions the spaceships between <span style="color: #facd4d"> OMEGA ZERO </span> and <span style="color: #facd4d"> OMEGA THREE </span>.
+**SWAP (обмен)**. За пределами Entanglion SWAP обменивается позициями двух космических кораблей. Внутри Entanglion SWAP переводит космические корабли только между <span style="color: #facd4d"> OMEGA ZERO </span> и <span style="color: #facd4d"> OMEGA THREE </span>.
 
-**CNOT**. CNOT is used to enter the Entanglion galaxy and navigate within it. It also flips the position of your spaceship in Centarious, but only when the other spaceship is orbiting <span style="color: purple"> ONE </span>.
+**CNOT (Контролируемое отрицание)**. CNOT используется для входа в галактику Entanglion и навигации внутри нее. Он также меняет положение вашего космического корабля в Centarious, но только тогда, когда другой космический корабль находится на орбите <span style="color: purple"> ONE </span>.
 
-**PROBE**. Whenever PROBE is drawn, your ships have been discovered by an ancient defensive probe! Roll the Entanglion die. If the outcome is less than 4 (after accounting for quantum component effects), increase the detection rate by one. Otherwise, PROBE has no effect. Discard PROBE and draw a replacement engine card.
+**PROBE (Измерение)**. Всякий раз, когда берется PROBE, ваши корабли обнаружеваются древним оборонительным зондом! Бросьте кубик Entanglion. Если результат меньше 4 (после учета эффектов квантовых компонентов), увеличьте уровень обнаружения на единицу. В противном случае, PROBE не имеет никакого эффекта.  Сбросьте курту PROBE и возьмите карту двигателя на замену.
 
-> Orient engine cards in the engine control spaces such that the lines on the card line up with the line of your spaceship.
+> Расположите карты двигателя в местах управления двигателем так, чтобы линии на карте совпадали с линией вашего космического корабля.
 
-> When the engine stack becomes depleted, immediately reshuffle the engine cards in the discard pile to replenish the engine stack. Include PROBE in the shuffle, do not place it at the bottom of the stack.
+> Когда стопка двигателей истощается, немедленно перетасуйте карты двигателя в стопке сброса, чтобы пополнить стопку двигателей.  Включите PROBE в случайном порядке, не помещайте это в основание колоды.
 
-# Turn overview
-Perform _one_ of the following actions on your turn.
+# Обзор хода
+Выполните _одно_ из следующих действий на вашем ходу.
 
-1. **Navigate**. Play one engine card in engine control to navigate around the galaxy, and draw a replacement. You may only play engine cards for your own ship.
-2. **Exchange**. Discard one engine card from your hand and draw a replacement..
-3. **Retrieve**. Roll the Entanglion die to attempt to retrieve a quantum component if one is present.
-4. **Event**. Play an event card from your hand (if you possess one).
+1. **Навигация**. Сыграйте одну карту двигателя из системы управления двигателем, чтобы перемещаться по галактике, и затем возьмите карту ей на замену. Вы можете играть карты двигателя только для своего корабля.
+2. **Обмен**. Сбросьте одну карту двигателя из вашей руки и возьмите карту ей на замену.
+3. **Получение квантового компонента**. Бросьте кубик Entanglion, чтобы попытаться получить квантовый компонент, если он есть.
+4. **Событие**. Разыграйте карту событий из своей руки (если она у вас есть).
 
-> Players may not pass their turns, they must perform one of the actions above.
+> Игроки не могут пропустить свои ходы, они должны выполнить одно из указанных выше действий.
 
-# Entering & exiting Entanglion
-In order to enter Entanglion, one spaceship needs to be in Centarious and the other spaceship needs to be in Superious. Only the spaceship in Centarious can use CNOT to enter Entanglion. The paths into Entanglion are represented with gray lines on the game board.
+# Вход и выход из Entanglion
+Чтобы войти в Entanglion, один космический корабль должен быть в Centarious, а другой - в Superious. Только космический корабль в Centarious может использовать CNOT для входа в Entanglion. Пути в Entanglion обозначены серыми линиями на игровом поле.
 
-Lead spaceship (playing the CNOT) | Other spaceship | Destination
+Ведущий космический корабль (играет на CNOT)  | Другой космический корабль | Место назначения
 --- | --- | ---
 <span style="color: purple"> ZERO </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PHI PLUS </span>
 <span style="color: purple"> ZERO </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PHI MINUS </span>
