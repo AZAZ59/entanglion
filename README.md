@@ -4,7 +4,7 @@
 
 **2 ИГРОКА | Возраст 14 и старше | 45 МИНУТ**
 
-[Entanglion](http://ibm.biz/entanglion) Ждет ваших навыков космической навигации и стратегического планирования, чтобы исследовать новую галактику и реконструировать древний квантовый компьютер. [Entanglion](http://ibm.biz/entanglion) - это кооперативная настольная игра предназначена для двух игроков. Узнайте о квантовых вычислениях, работая вместе со своим товарищем по команде, чтобы перемещаться по трем галактикам квантовой вселенной, избегать обнаружения защитными механизмами, оставленными древними, и восстанавливать квантовый компьютер.
+В [Entanglion](http://ibm.biz/entanglion) вам предстоит проявить использовать свои навыки космической навигации и стратегического планирования для того, чтобы исследовать новую галактику и восстановить древний квантовый компьютер. [Entanglion](http://ibm.biz/entanglion) - это кооперативная настольная игра для двух игроков. Узнайте о квантовых вычислениях, работая вместе со своим товарищем по команде, чтобы перемещаться по трем галактикам квантовой вселенной, избегать обнаружения защитными механизмами, оставленными древними, и восстанавливать квантовый компьютер.
 
 Думаешь, ты готов принять вызов?
 
@@ -67,7 +67,7 @@ Entanglion был разработан IBM Research в Нью-Йорке.
 
 **Дизайн**: [Марьям Ашури](https://github.com/maryamashoori), [Джастин Д. Вайс](https://github.com/jweisz)<br />
 **Иллюстрация**: [Аарон Кокс](https://twitter.com/aarrccooxx), [Майкл Л. Кенни](https://www.linkedin.com/in/michaelleekenney/)<br />
-**Квантовая наука(???)**: [Джей М. Гамбетта](https://github.com/jaygambetta), [Джерри М. Чоу](https://github.com/jerrymchow), and [Лев С. Бишоп](https://github.com/levbishop)<br />
+**Квантовая наука(???)**: [Джей М. Гамбетта](https://github.com/jaygambetta), [Джерри М. Чоу](https://github.com/jerrymchow), и [Лев С. Бишоп](https://github.com/levbishop)<br />
 
 # Лицензия
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

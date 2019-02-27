@@ -1,54 +1,53 @@
-# Entanglion Rule Book
+# Книга Правил Entanglion
 
-> A game by IBM Research
+> Игра от IBM Research
 
-**2 PLAYERS | AGES 14 & UP | ~45 MINUTES**
+**2 ИГРОКА | Возраст 14 и старше | 45 МИНУТ**
 
-Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.
+Ждет ваших навыков космической навигации и стратегического планирования, чтобы исследовать новую галактику и реконструировать древний квантовый компьютер. 
 
 http://ibm.biz/entanglion
 
-> 🤔 Confused about a rule? Please take a look at the [errata](Errata.md) for rule clarifications and game updates.
+> 🤔 Смущены правилом? Пожалуйста, посмотрите [опечатки](Errata.md) для уточнения правил и обновлений игры.Добро пожаловать в квантовую вселенную, капитан!
 
 # Welcome to the quantum universe, Captain!
 
 <img src="../images/bg.png" width="100%">
 
-Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+Поздравляем, ваш капитан вышел на пенсию и оставил вас ответственным за галактическое судоходство! Теперь пришло время сделать некоторые обновления.
 
-For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
+В течение многих лет вы были одержимы слухами о древней технологии квантовых вычислений, которая могла бы в корне изменить. галактических транспортировку грузов. (???????) Если бы слухи были правдой, это позволило бы вашим кораблям вычислять гиперпространственные пути за считанные секунды! Есть только одна проблема: древние разбирали их квантовый компьютер из-за опасений, что он слишком мощный, и оставили компоненты, разбросанные по планетам, в сильно(???) охраняемой галактике Энтанглион.
 
-If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
+Если вы хотите восстановить эту невероятную технологию, вам придется перемещаться своими кораблями через галактику Энтанглион и обходить оборону, оставленную древними. Хорошая новость заключается в том, что ваш старый капитан оставил вам достаточно денег, чтобы оснастить свои корабли квантовыми двигателями, необходимыми для входа в Энтанглион. Плохая новость заключается в том, что без квантового компьютера, который им управляет, эти двигатели могут быть немного ... непредсказуемыми.
 
-Think you're up for the challenge?
+Думаешь, ты готов принять вызов?
 
-# Goal
-Entanglion is a cooperative board game designed for two players. The goal is to reconstruct a quantum computer developed by an ancient race. Work together with your teammate to navigate the three galaxies of the quantum universe – Centarious, Superious, and Entanglion – in a quest to collect eight quantum computer components. Be careful to avoid detection by the planetary defense mechanisms guarding the components!
+# Цель
+Entanglion - это кооперативная настольная игра, рассчитанная на двух игроков. Ваша цель состоит в том, чтобы восстановить квантовый компьютер, разработанный древней расой. Работайте вместе со своим товарищем по команде, чтобы перемещаться по трем галактикам квантовой вселенной - Centarious, Superious и Entanglion - в стремлении собрать восемь квантовых компьютерных компонентов. Будьте осторожны, чтобы избежать обнаружения планетарными защитными механизмами, охраняющими компоненты квантового компьютера!
 
-# Game concepts
-Entanglion was designed to expose players to several fundamental concepts in quantum computing: 
+# Концепции игры
+Entanglion был разработан, чтобы познакомить игроков с несколькими фундаментальными понятиями в квантовых вычислениях:: 
 
-- **Qubits** are the building blocks of quantum computation.
-- **Superposition** is when a quantum system may exist in a probabilistic combination of multiple states at once.
-- **Entanglement** happens when the state of one qubit correlates with the state of another qubit.
-- **Measurement** is the process of observing the classical value of a qubit.
-- **Error** happens when random noise in the quantum system perturbs the measured value of a qubit.
+- **Кубиты** являются строительными блоками квантовых вычислений.
+- **Суперпозиция** это когда квантовая система может существовать в вероятностной комбинации нескольких состояний одновременно..
+- **Квантовая запутанность** наступает, когда состояние одного кубита коррелирует с состоянием другого кубита.
+- **Измерение** это процесс наблюдения классического значения кубита.
+- **Ошибка** происходит, когда случайный шум в квантовой системе вносит неопределённость в измеренное значение кубита.
 
-Entanglion also exposes players to the different kinds of hardware and software components involved in building a real quantum computer.
+Entanglion также предоставляет игрокам различные виды аппаратных и программных компонентов, участвующих в создании реального квантового компьютера.
 
-Further discussion of how Entanglion relates to actual quantum computing can be found toward the end of this book.
+Дальнейшее обсуждение того, как Entanglion относится к фактическим квантовым вычислениям, можно найти в конце этой книги.
 
-# Game setup
-1. **Lay out the game & spaceship boards**. Place the game board within easy reach from 
-each player and distribute the spaceship boards to each player.
-2. **Place the quantum components**. Shuffle the quantum components and place them face up on each planet in the Entanglion galaxy, one per planet.
-3. **Shuffle the engine card stack**. Set aside the PROBE card and shuffle the remaining engine cards. Place the PROBE card face down on the engine stack, then place the remaining engine cards on top, face down.
-4. **Prepare the quantum event deck**. Set aside the Quantum Shuffle card and shuffle the remaining event cards. Deal out three event cards face down on the quantum event deck. Next, place the Quantum Shuffle card face down on the deck. Finally, place the remaining event cards face down on the deck.
-5. **Set the initial detection rate**. Place the detection rate token on the detection rate scale. For an easy game, start with a detection rate of 1 or 2. For a more challenging game, start with a detection rate of 3. If the detection rate reaches the final level (X) before the quantum computer has been built, the game ends in a loss.
-6. **Determine the first player**. Determine the first player by having each player 
-roll the Entanglion die (8-sided). The player with the higher number goes first. Re-roll in case of a tie.
-7. **Determine the initial ship locations**. Starting with the first player, roll the Centarious die to place each spaceship (0 goes to <span style="color: purple"> ZERO </span>, 1 goes to <span style="color: purple"> ONE </span>). This process is akin to initializing a quantum system.
-8. **Draw engine cards**. Starting with the first player, each player draws three engine cards into their hand. Engine cards may be kept face up.
+# Подготовка к игре
+1. **Выложите поля для игроы и космических кораблей**. Разместите игровое поле в пределах легкой досягаемости от
+каждого игрока и раздайте поля космических кораблей каждому игроку.
+2. **Поместите квантовые компоненты(???)**. Перемешайте квантовые компоненты и поместите их лицом вверх на каждую планету в галактике Entanglion, по одному на планету.
+3. **Перемешайте стопку карт двигателя **. Отложите карту PROBE и перемешайте оставшиеся карты двигателя. Поместите карту PROBE лицевой стороной вниз на стопку двигателя, затем положите оставшиеся карты двигателя сверху лицевой стороной вниз.
+4. **Подготовка колоды квантовых событий**. Отложите карту Quantum Shuffle и перемешайте оставшиеся карты событий. Выложите три карты событий лицевой стороной вниз на место для квантовых событий. (??????) Затем поместите карту Quantum Shuffle лицевой стороной вниз в колоду.  Наконец, поместите оставшиеся карты событий в колоду лицевой стороной вниз.
+5. **Установите начальный уровень обнаружения **. Поместите жетон уровня обнаружения на шкалу уровня обнаружения. Для простой игры начните с уровня обнаружения 1 или 2. Для более сложной игры начните с уровня обнаружения 3. Если уровень обнаружения достигает конечного уровня (X) до того, как квантовый компьютер будет построен, игра заканчивается прогрышем команды.
+6. **Определить первого игрока**. Выберите первого игрока по с помощью броска кубика Entanglion (8-гранный). Игрок с большим результатом ходит первым. Перебросьте кубик в случае равных результатов.
+7. **Определите начальные местоположения корабля**. Начиная с первого игрока, бросьте кубик Centarious, чтобы разместить каждый космический корабль (0 - переход к <span style="color: purple"> ZERO </span>, 1 - переход к <span style="color: purple"> ONE </span>). Этот процесс сродни инициализации квантовой системы.
+8. **Возьмите карты двигателя**. Начиная с первого игрока, каждый игрок берет три карты двигателя в свою руку.  Карты двигателя можно держать открытыми.
 
 <img src="../images/setup.png" width="100%">
 
@@ -234,7 +233,7 @@ The engine cards represent _some_ of the different kinds of quantum logic gates 
 ## Quantum components
 The quantum components in Entanglion represent different physical or logical components needed to construct an actual quantum computer.
 
-- **Physical Qubits**. Much like how classical computer processors are implemented via hardware transistors, quantum processors are implemented via hardware qubits. There are a [number of different ways](https://en.wikipedia.org/wiki/Qubit#Physical_representation) scientists are creating physical qubits, including Josephson junctions, ion traps, and quantum dots.
+- **Физические кубиты**. Much like how classical computer processors are implemented via hardware transistors, quantum processors are implemented via hardware qubits. There are a [number of different ways](https://en.wikipedia.org/wiki/Qubit#Physical_representation) scientists are creating physical qubits, including Josephson junctions, ion traps, and quantum dots.
 - **Qubit Interconnect**. Qubits must be physically connected to each other in order to become entangled with one another.
 - **Dilution Refrigerator**. Physical qubits must be kept at very cold temperatures – colder even than outer space – in order to maintain their coherence. Dilution refrigerators are able to cool physical qubits to temperatures as low as 2 millikelvin.
 - **Quantum Gates**. In classical computing, logical gates such as AND, OR, NOT, and NAND are combined to create higher-order computation. In quantum computing, quantum gates such as X, CNOT, SWAP, and H are used for computation.
