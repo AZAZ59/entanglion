@@ -116,44 +116,44 @@ Entanglion также предоставляет игрокам различны
 <span style="color: purple"> ONE </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PSI PLUS </span>
 <span style="color: purple"> ONE </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PSI MINUS </span>
 
-It is also possible to exit Entanglion using CNOT when both ships are orbiting <span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MINUS </span>, <span style="color: #facd4d"> PSI PLUS </span>, or <span style="color: #facd4d"> PSI MINUS </span>. The ship that plays the CNOT returns to Centarious and the other ship returns to Superious, on the planets indicated with the gray lines.
+Также можно выйти из Entanglion с помощью CNOT, когда оба корабля находятся на орбите<span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MINUS </span>, <span style="color: #facd4d"> PSI PLUS </span>, or <span style="color: #facd4d"> PSI MINUS </span>. Корабль, который играет CNOT, возвращается в Centarious, а другой корабль возвращается в Superious, на планеты, обозначенные серыми линиями.
 
-Example: Rubicon is orbiting <span style="color: purple"> ZERO </span> and Mercurial is orbiting <span style="color: green"> PLUS </span>. When Rubicon plays a CNOT, both ships move to <span style="color: #facd4d"> PHI PLUS </span>.
+Пример: Рубикон находится на орбите<span style="color: purple"> ZERO </span> а Mercurial движется на орбите <span style="color: green"> PLUS </span>. Когда Рубикон играет CNOT, оба корабля переходят в <span style="color: #facd4d"> PHI PLUS </span>.
 
-> Outside of Entanglion, ships move independently. Inside Entanglion, both ships always move together, irregardless of which player plays an engine card.
+> За пределами Entanglion корабли движутся независимо.  Внутри Entanglion оба корабля всегда движутся вместе, независимо от того, какой игрок играет карту двигателя.
 
 <img src="../images/entering_entanglion.png" width="40%">
 
-On <span style="color: #facd4d"> PHI PLUS </span>, when Rubicon plays CNOT, Rubicon moves to <span style="color: purple"> ZERO </span> and Mercurial moves to <span style="color: green"> PLUS </span>.
+В <span style="color: #facd4d"> PHI PLUS </span>,  когда Рубикон воспроизводит CNOT, Рубикон переходит в <span style="color: purple"> ZERO </span> а Mercurial переходит в <span style="color: green"> PLUS </span>.
 
 <img src="../images/entering_entanglion2.png" width="40%">
 
-# Detection rate
-The detection rate determines the difficulty of successfully evading planetary defenses. The detection rate token is used to keep track of the current detection rate. When a player’s spaceship has been detected by orbital defenses, or a player’s away team has been detected by ground defenses, the detection rate is increased, making it easier for each planet’s defenses 
-to detect the player in the future. The game ends when the detection rate reaches the final level (designated with an X).
+# Уровень обнаружения
+Уровень обнаружения определяет сложность успешного обхода планетарной защиты.  Маркер уровеня обнаружения используется для отслеживания текущего уровня обнаружения. Когда космический корабль игрока был обнаружен с помощью орбитальной защиты, или команда игрока была обнаружена с помощью наземной обороны, уровень обнаружения увеличивается, что облегчает защитной системе каждой планеты обнаружить игрока в будущем. Игра заканчивается, когда уровень обнаружения достигает конечного уровня (обозначается знаком X).
 
-> The detection rate increases by one whenever you are detected by a planet's orbital or ground defenses.
+> Уровень обнаружения увеличивается на единицу всякий раз, когда вас обнаруживает орбитальная или наземная защита планеты.
 
 <img src="../images/detection_rate.png" width="40%">
 
-# Orbital defenses
-Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum components hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.
+# Орбитальная защита
+Планеты в Entanglion защищены орбитальной защитой (повтор убрать???), которая сканирует корабли, пытающиеся разграбить скрытые на планете квантовые компоненты. Можно избежать этих защит, используя квантовые двигатели. Однако, если вас обнаружат, ваша навигационная система автоматически выполнит маневры уклонения и прыгнет на случайную планету в системе Centarious.
+ Этот скачок запускает квантовое событие.
 
-**When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is greater than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
+**При перемещении на любую планету в Entanglion:** Бросьте кубик Entanglion.  Если результат больше, чем текущий уровень обнаружения, вам удалось уклониться от систем орбитальной защиты. Если нет, выполните следующие действия:
 
-1. Roll the Centarious die and move both ships to the planet indicated. Both ships jump together.
-2. Increase the detection rate by one.
-3. Draw a quantum event card and perform the action indicated.
+1. Бросьте кубик Centarious и переместите оба корабля на указанную планету. Оба корабля прыгают вместе.
+2. Увеличьте уровень обнаружения на единицу.
+3. Возьмите карту квантовых событий и выполните указанное действие.
 
-> Physical Qubits lets you decide which planets in Centarious to place your spaceships.
+> Physical Qubits позволяет вам решить, на какие планеты в Centarious разместить ваши космические корабли.
 
-> Quantum Programming lets you bypass orbital defenses when a planet doesn't have a quantum component.
+> Quantum Programming позволяет обойти орбитальную защиту, когда на планете нет квантового компонента.
 
-> The Quantum Tunnel event card lets you bypass orbital defenses. If you play this card after entering the orbit of a planet in Entanglion, you do not need to roll the Entanglion die to determine if your ships were detected by orbital defenses.
+> Карта событий Quantum Tunnel позволяет обойти орбитальную оборону. Если вы разыгрываете эту карту после выхода на орбиту планеты в Entanglion, вам не нужно бросать кубик Entanglion, чтобы определить, были ли ваши корабли обнаружены орбитальной защитой.
 
-> When entering Entanglion via the Heisenberg card, you may ignore the orbital defenses.
+> При входе в Entanglion через карту Гейзенберга вы можете игнорировать орбитальную защиту.
 
-> If you play an engine card that does not transition your ships to a new planet in Entanglion, you do not need to re-check whether your ships have been detected.
+> Если вы разыгрываете карту двигателя, которая не переводит ваши корабли на новую планету в Entanglion, вам не нужно повторно проверять, были ли обнаружены ваши корабли.
 
 # Quantum components
 There are eight components that players must obtain in order to build the quantum computer to win the game, shown on each of the spaceship boards. Each component also grants a permanent special ability or hindrance to your ship, so you must strategize with your teammate to obtain the components in an optimal order!
