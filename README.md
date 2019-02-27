@@ -1,44 +1,44 @@
-# Entanglion
+ # Entanglion
 
-> A game by IBM Research
+> Игра от IBM Research
 
-**2 PLAYERS | AGES 14 & UP | 45 MINUTES**
+**2 ИГРОКА | Возраст 14 и старше | 45 МИНУТ**
 
-[Entanglion](http://ibm.biz/entanglion) awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer. [Entanglion](http://ibm.biz/entanglion) is a cooperative board game designed for two players. Learn about quantum computing as you work together with your teammate to navigate the three galaxies of the quantum universe, avoid detection by the defense mechanisms left behind by the ancients, and rebuild the quantum computer.
+[Entanglion](http://ibm.biz/entanglion) Ждет ваших навыков космической навигации и стратегического планирования, чтобы исследовать новую галактику и реконструировать древний квантовый компьютер. [Entanglion] (http://ibm.biz/entanglion) - это кооперативная настольная игра предназначена для двух игроков. Узнайте о квантовых вычислениях, работая вместе со своим товарищем по команде, чтобы перемещаться по трем галактикам квантовой вселенной, избегать обнаружения защитными механизмами, оставленными древними, и восстанавливать квантовый компьютер.
 
-Think you’re up for the challenge?
+Думаешь, ты готов принять вызов?
 
 <img src="images/front.jpg" width="100%">
 
-## Welcome to the quantum universe, Captain!
-Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+## Добро пожаловать в квантовую вселенную, капитан!
+Поздравляем, ваш капитан вышел на пенсию и оставил вас ответственным за галактическое судоходство!  Теперь пришло время сделать некоторые обновления.
 
-For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
+В течение многих лет вы были одержимы слухами о древней технологии квантовых вычислений, которая могла бы в корне изменить. галактических транспортировку грузов. (???????) Если бы слухи были правдой, это позволило бы вашим кораблям вычислять гиперпространственные пути за считанные секунды! Есть только одна проблема: древние разбирали их квантовый компьютер из-за опасений, что он слишком мощный, и оставили компоненты, разбросанные по планетам, в сильно(???) охраняемой галактике Энтанглион.
 
-If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
+Если вы хотите восстановить эту невероятную технологию, вам придется перемещаться своими кораблями через галактику Энтанглион и обходить оборону, оставленную древними.  Хорошая новость заключается в том, что ваш старый капитан оставил вам достаточно денег, чтобы оснастить свои корабли квантовыми двигателями, необходимыми для входа в Энтанглион. Плохая новость заключается в том, что без квантового компьютера, который им управляет, эти двигатели могут быть немного ... непредсказуемыми.
 
-Want to hear more? Read the full Entanglion backstory, [The Mysterious Fate of the Quantics](game/Backstory.md).
+Хотите узнать больше? Прочитайте полную предысторию Энтанглион, [The Mysterious Fate of the Quantics](game/Backstory.md).
 
-## Obtaining Entanglion
-Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets. Alternatively, you can purchase a boxed copy of Entanglion at The Game Crafter.
+## Получение Entanglion
+Entanglion - это проект с открытым исходным кодом, и вы можете сделать свою собственную копию игры, загрузив и распечатав ресурсы. Кроме того, вы можете приобрести коробочную копию Entanglion в Game Crafter
 
-🚀 **[Download the Entanglion Printing & Assembly guide](assets)**
+🚀 **[Загрузить руководство по печати и сборке Entanglion](assets)**
 
-💰 **[Purchase Entanglion at The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
+💰 **[Покупка Entanglion в The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
 
 <img src="images/board.png" width="85%" />
 
-## Playing Entanglion
-Please read through the [rule book](game) to understand how to play Entanglion. The online version of the rule book should be considered authoritative, and we will document any errata we find in the printed guide on that page.
+## Играем в Entanglion
+Пожалуйста, прочитайте [книгу правил](game) , чтобы понять, как играть в Entanglion. Онлай-версию книги правил,следует считать актуальной. Мы будем документировать любые ошибки, обнаруженные в печатном руководстве на этой странице.
 
-## Teaching Entanglion
-If you are an educator who would like to use Entanglion as part of a learning curriculum, please [reach out to us](mailto:entanglion@us.ibm.com). We would love to hear about your plans for Entanglion and we may be able to support your efforts.
+## Использование Entanglion в образовании
+Если вы педагог, который хотел бы использовать Entanglion в качестве части учебной программы, пожалуйста, [обращайтесь к нам] (mailto: entanglion@us.ibm.com). Мы хотели бы услышать о ваших планах в отношении Entanglion и, возможно, сможем поддержать ваши усилия.
 
-## Expanding Entanglion
-Entanglion is an open-source project developed by IBM Research to teach players about quantum computing. We welcome community contributions to modify and extend gameplay. If you would like to develop an expansion to Entanglion, please check out our [expansion guide](expansions).
+## Расширение Entanglion
+Entanglion - это проект с открытым исходным кодом, разработанный IBM Research для обучения игроков квантовым вычислениям.  Мы приветствуем участие сообщества в изменении и расширении игрового процесса. Если вы хотите разработать расширение для Entanglion, пожалуйста, ознакомьтесь с нашим [руководством по расширению](expansions).
 
-## Citing Entanglion
-If you wish to cite Entanglion in academic work, please use the following citation.
+## Цитирование Entanglion
+Если вы хотите процитировать Entanglion в учебной работе, пожалуйста, используйте следующую цитату.
 
 > Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: https://doi.org/10.1145/3242671.3242696
 
@@ -62,12 +62,12 @@ If you wish to cite Entanglion in academic work, please use the following citati
 } 
 ```
 
-# Contributors
-Entanglion was designed by IBM Research in New York.
+# Участники
+Entanglion был разработан IBM Research в Нью-Йорке.
 
-**Design**: [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)<br />
-**Illustration**: [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)<br />
-**Quantum Science**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
+**Дизайн **: [Марьям Ашури](https://github.com/maryamashoori), [Джастин Д. Вайс](https://github.com/jweisz)<br />
+**Иллюстрация**: [Аарон Кокс](https://twitter.com/aarrccooxx), [Майкл Л. Кенни](https://www.linkedin.com/in/michaelleekenney/)<br />
+**Квантовая наука(???)**: [Джей М. Гамбетта](https://github.com/jaygambetta), [Джерри М. Чоу](https://github.com/jerrymchow), and [Лев С. Бишоп](https://github.com/levbishop)<br />
 
-# License
+# Лицензия
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
